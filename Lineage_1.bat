@@ -10,7 +10,7 @@ git pull
 echo +++++++++++++++++++++++++++++++++++++++++++
 echo + Opening Login-Key...                    +
 echo +++++++++++++++++++++++++++++++++++++++++++
-start key/*.jpg
+start key/key.jpg
 
 echo +++++++++++++++++++++++++++++++++++++++++++
 echo + Starting Lineage...                     +
